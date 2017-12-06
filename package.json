@@ -1,0 +1,16 @@
+{
+  "title": "sslOnion",
+  "name": "sslonion",
+  "version": "0.0.1",
+  "description": "A PoC that aims to show, that reading out information from an ssl-certificate and redirecting to an onion address from the L/S/O/C fields, is possible.",
+  "main": "index.js",
+  "author": "heddha",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
